@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="text_source_currency">Конвертировать из</string>
+    <string name="text_final_currency">Конвертировать в</string>
+    <string name="text_sum_source_currency">Введите количество </string>
+    <string name="text_sum_final_currency">Результат</string>
+    <string name="text_result">Значение будет сформировано</string>
+    <string name="text_ok">Конвертировать</string>
+</resources>
