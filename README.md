@@ -1,5 +1,5 @@
-# Converter
-Converter of currency
+# Converter of currency
+
 Разрабатываемое приложение: Конвертер валют
 1)	Приложение разработано под платформу Android.
 2)	Версия платформы Android не ниже 4.4.
